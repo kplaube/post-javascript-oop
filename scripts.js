@@ -43,7 +43,7 @@ console.log(typeof(pessoa1));
 
 // Exemplo com propriedades e métodos
 // Mais em: http://weblog.bocoup.com/javascript-is-object-oriented-programming
-console.log("--- Exemplo com propriedades e métodos --");
+console.log("--- Exemplo com propriedades e métodos ---");
 
 // Função "construtora"
 var Linguagem = function(nome, versao) {
